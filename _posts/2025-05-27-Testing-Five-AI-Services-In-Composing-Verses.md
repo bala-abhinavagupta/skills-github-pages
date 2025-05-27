@@ -1,6 +1,6 @@
 ---
-title: "Testing Five AI Services In Composing Verses"
-date: 2025-05-27
+# "Testing Five AI Services In Composing Verses"
+# 2025-05-27
 ---
 On May 25th 2025, curious to know the capacity of currently available AI services online, I tested five AI websites for their ability to compose in Sanskrit - Claude (claude.ai), Perplexity (perplexity.ai), Chat.z (chat.z.ai), ChatSutra (chat.two.ai), and ChatGPT (chatgpt.com). I used the free version of all the websites after logging into them.<br>  
 I keyed in the same prompt -<br>  
